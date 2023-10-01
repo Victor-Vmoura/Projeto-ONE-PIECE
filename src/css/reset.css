@@ -1,0 +1,12 @@
+/* o Asteristico serve para mudar o estilo geral do HTML, todas as propriedades */
+/*  CTRL+; serve para comentar o código, o contrario tbm funciona */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
